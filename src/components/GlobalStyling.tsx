@@ -18,6 +18,7 @@ export const GlobalStyles = createGlobalStyle`
 /* adding root font size */
 html{
     font-size: 16px;
+    cursor: default;
 }
 /* Remove default margin */
 body,
